@@ -26,6 +26,7 @@ button{
   border: none;
   outline: none;
   cursor: pointer;
+  background-color: transparent;
   animation: anime 1s infinite ease-in-out alternate;
   -webkit-animation: anime 1s infinite ease-in-out alternate;
 }
